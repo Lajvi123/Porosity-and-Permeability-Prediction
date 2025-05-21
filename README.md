@@ -48,7 +48,7 @@ I have trained the pre processed data on a fully connected neural network (FCNN)
 
 The trained model is applied to another well in the same field to evaluate its generalizability. Results are visualized on multi-track composite plots alongside the original logs to compare predicted properties with known formation characteristics.
 
-
+You can find the code file [here](https://colab.research.google.com/drive/1lrBprO38JdQFUxLIuAPPzeFAfnlytAzR?usp=sharing). 
 
   
 
